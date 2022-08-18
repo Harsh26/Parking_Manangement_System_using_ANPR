@@ -23,7 +23,7 @@ Pre-requisites:-
 How to run:-
 
         1. Run Welcome.java file and go to Admin Portal. You would see something like this:-
-        ![Alt text](ScreenShots/image2.png?raw=true "Title")
+        ![ScreenShots/image2.png?raw=true "Title"](https://github.com/Harsh26/Parking_Manangement_System_using_ANPR/blob/main/ScreenShots/image1.png))
         
         ![alt text](https://github.com/Harsh26/Parking_Manangement_System_using_ANPR/blob/main/ScreenShots/image1.png?raw=true)
         
