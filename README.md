@@ -24,8 +24,8 @@ How to run:-
 
         1. Run Welcome.java file and go to Admin Portal. You would see something like this:-
         
-        ![](ScreenShots/image1.png)
-        
-        ![alt text](https://github.com/Harsh26/Parking_Manangement_System_using_ANPR/blob/main/ScreenShots/image1.png?raw=true)
+![](ScreenShots/image2.png)
+![](ScreenShots/image1.png)
+       
         
         2. 
