@@ -16,7 +16,7 @@ Pre-requisites:-
           2. All Collected Images should be Placed in test folder.
           3. All Outputs will be placed in changes folder which will automatically update with each recognition.
           4. Admin has to enter details of car parked, which will be present in respective Databases.
-          5. YOu need to add jar files dependencies and some DLL file paths in project libraries and properties respectively.
+          5. You need to add jar files dependencies and some DLL file paths in project libraries and properties respectively.
           6. All the jar file dependency required will be uploaded in LIB_Dependency folder. You need to add it, if you want to run.
 
 
