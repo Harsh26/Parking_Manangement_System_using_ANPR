@@ -28,4 +28,13 @@ How to run:-
 ![](ScreenShots/image1.png)
        
         
-        2. 
+        2. The Username is "admin" and Password is "12345".
+        
+        3. After Login you need to Enter the directory name as follows where your dataset is loaded:-
+        
+![](ScreenShots/image3.png)
+
+        4. Once we get the number plate from Image, we can play around with different Options like inserting the details of the car, searching it from the database and deleting once car goes out. Please note delte operartion will only delete data from current details table, but all the trends and details of cars parked anytime will always remain in History database.
+        
+                                                                                                                                            
+![](ScreenShots/image4.png)
