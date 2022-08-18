@@ -23,8 +23,8 @@ Pre-requisites:-
 How to run:-
 
         1. Run Welcome.java file and go to Admin Portal. You would see something like this:-
-        ![alt text](https://github.com/Harsh26/Parking_Manangement_System_using_ANPR/blob/main/ScreenShot/image1.jpg?raw=true)
+        ![alt text](https://github.com/Harsh26/Parking_Manangement_System_using_ANPR/blob/main/ScreenShots/image1.jpg?raw=true)
         
-        ![alt text](https://github.com/Harsh26/Parking_Manangement_System_using_ANPR/blob/main/ScreenShot/image2.jpg?raw=true)
+        ![alt text](https://github.com/Harsh26/Parking_Manangement_System_using_ANPR/blob/main/ScreenShots/image2.jpg?raw=true)
         
         2. 
